@@ -39,7 +39,7 @@ ___
 ---
 ___
 
-![Еще одна цитата](C:\Users\User\Desktop\kartinki-aforizmy-pro-zhizn-9.jpg)
+![Картинка](https://picsum.photos/800/600)
 
 
 ---
