@@ -8,6 +8,7 @@ ___
 *Текст курсивом* 
 **Жирный текст** 
 ***Жирный и курсивный текст***
+~~Зачёркнутый текст.~~
 
 ---
 ___
@@ -33,5 +34,17 @@ ___
 ---
 ___
 
-
 [Ссылка на мемы с котиками](https://saltmag.ru/lifestyle/fun/6373-luchshie-memy-s-kotami/?ysclid=ld231zsycg612875886)
+
+---
+___
+
+![Еще одна цитата](https://yandex.by/images/search?text=%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B%20%D0%B2%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D1%85&from=tabbar&pos=33&img_url=http%3A%2F%2Fproprikol.ru%2Fwp-content%2Fuploads%2F2020%2F03%2Fkartinki-aforizmy-pro-zhizn-9.jpg&rpt=simage&lr=157)
+
+
+---
+___
+
+
+
+
