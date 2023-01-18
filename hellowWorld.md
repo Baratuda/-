@@ -1,6 +1,6 @@
 # Заголовок H1
 ## Заголовок H2
-### Заголовок H3dfhwaeflwkfmsa;dfojdsa;lfnmsad;flkjdsf;lsadmfk;sadlf,m;dslmcds;ldsa;lfkm;adc
+### Заголовок H3
 
 ---
 ___
